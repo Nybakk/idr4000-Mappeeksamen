@@ -3,11 +3,11 @@ project:
 
 book:
   title: "Mappeeksamen IDR4000"
-  author: "Student Studentson"
+  author: "Anders Nybakk"
   date: "2024-09-10"
   chapters:
     - index.qmd
-    - 01-reliability-tools.qmd
+    - 01-Reliabilitet.qmd
     - 02-regression-models.qmd
     - 03-statistical-inference.qmd
     - 04-study-design.qmd
